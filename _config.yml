@@ -35,7 +35,7 @@ social:
 # Google Analytics Configuration
 # Proxy response must be in JSON and should have the fields - ga:pagePath, ga:pageview
 google_analytics:
-  tracking_id:      your_google_analytics_tracking_id
+  tracking_id:      UA-76494582-1
   super_proxy_url:  your_super_proxy_url
 
 # Github
