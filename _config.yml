@@ -28,9 +28,9 @@ author:
 
 # Social Integration
 social:
-  twitter:        your_twitter_handle
+  twitter:        KanduriC
   disqus:         your_disqus_id
-  addthis_pubid:  your_addthis_pubid
+  addthis_pubid:  ra-57130e9ae664efab
 
 # Google Analytics Configuration
 # Proxy response must be in JSON and should have the fields - ga:pagePath, ga:pageview
