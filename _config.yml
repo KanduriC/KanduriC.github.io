@@ -29,7 +29,7 @@ author:
 # Social Integration
 social:
   twitter:        KanduriC
-  disqus:         your_disqus_id
+  disqus:         KanduriC
   addthis_pubid:  ra-57130e9ae664efab
 
 # Google Analytics Configuration
@@ -40,8 +40,5 @@ google_analytics:
 
 # Github
 github:
-  repo:           your_github_repo
-  feedback:       your_github_repo_issues_page_url
-
-# Version Info
-version:          0.0.5
+  repo:           KanduriC.github.io
+  feedback:       https://github.com/KanduriC/KanduriC.github.io/issues
