@@ -8,10 +8,10 @@ highlighter:      rouge
 permalink:        /posts/:title/
 
 # User Configuration
-title:            JEKYLL KICKSTART
-tagline:          'A bootstrap for Jekyll'
+title:            Chakravarthi Kanduri's blog
+tagline:          'Notes and thoughts from KanduriC'
 description:      'Some random stuff about me'
-url:              http://jekyll-kickstart.gihub.io
+url:              http://KanduriC.gihub.io
 baseurl:          '/'
 paginate:         3
 excerpt_separator: '<br>'
@@ -23,8 +23,8 @@ gems:
 
 # Author Info
 author:
-  name:           'Jekyll Kickstart'
-  url:            your_web_url
+  name:           'Chakravarthi Kanduri'
+  url:            https://twitter.com/KanduriC
 
 # Social Integration
 social:
