@@ -6,8 +6,8 @@
 	-webkit-border-radius: 100px;
 	-moz-border-radius: 100px;
 	background: url(../images/profile.png) no-repeat;
-	background-position: center left;
-	background-size: contain;
+	background-position: center center;
+	background-size: cover;
 	/*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);*/
@@ -24,8 +24,8 @@
 	-webkit-border-radius: 75px;
 	-moz-border-radius: 75px;
 	background: url(../images/profile_small.png) no-repeat;
-	background-position: center left;
-	background-size: contain;
+	background-position: center center;
+	background-size: cover;
 	/*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);*/
