@@ -7,6 +7,6 @@ comments: true
 analytics: true
 ---
 
-# Hello World! <br>
+<br>
 
 Hello World! Well, it's traditional. I plan to use this site to occasionally share my notes and thoughts. Keep watching this space for updates.
