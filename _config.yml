@@ -8,9 +8,9 @@ highlighter:      rouge
 permalink:        /posts/:title/
 
 # User Configuration
-title:            KanduriC's blog
+title:            Chakravarthi Kanduri's blog
 tagline:          ''
-description:      'Chakravarthi Kanduri'
+description:      'KanduriC'
 url:              http://KanduriC.gihub.io
 baseurl:          '/'
 paginate:         3
