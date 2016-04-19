@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ''
+title: About
 ---
 
 <div class="circularProfilePic"></div>
@@ -19,11 +19,11 @@ Previously, I received a bachelor's degree in Biotechnology from the [Andhra Uni
 
 ### Publications
 
-[Google Scholar](https://scholar.google.co.in/citations?user=FSLkeIcAAAAJ&hl=en) | [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=chakravarthi+kanduri%5BAuthor%5D) | [ImpactStory](https://impactstory.org/u/0000-0002-4783-9060) | [Bioconductor Package](bioconductor.org/packages/GenRank/) 
+[Google Scholar](https://scholar.google.co.in/citations?user=FSLkeIcAAAAJ&hl=en) | [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=chakravarthi+kanduri%5BAuthor%5D) | [ImpactStory](https://impactstory.org/u/0000-0002-4783-9060) | [Bioconductor Package](https://bioconductor.org/packages/GenRank/) 
 
 ***
 
-### Follow me
+### Contact
 
 
 {% include follow_me.html %}
