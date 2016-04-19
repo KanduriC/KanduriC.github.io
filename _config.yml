@@ -10,7 +10,7 @@ permalink:        /posts/:title/
 # User Configuration
 title:            Chakravarthi Kanduri's blog
 tagline:          ''
-description:      'KanduriC'
+description:      '@KanduriC'
 url:              http://KanduriC.gihub.io
 baseurl:          '/'
 paginate:         3
